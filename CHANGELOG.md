@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.5.1](https://github.com/open-feature/python-sdk/compare/v0.5.0...v0.5.1) (2024-03-03)
+
+
+### 🧹 Chore
+
+* add changelog sections ([#282](https://github.com/open-feature/python-sdk/issues/282)) ([141858d](https://github.com/open-feature/python-sdk/commit/141858d2359bf6bf439426b3ea4ba322f4b10421))
+* **deps:** update dependency coverage to v7.4.3 ([#280](https://github.com/open-feature/python-sdk/issues/280)) ([bafa427](https://github.com/open-feature/python-sdk/commit/bafa427a0da40711d327c435ab199286f68fb6b7))
+* **deps:** update dependency pytest to v8.0.2 ([#281](https://github.com/open-feature/python-sdk/issues/281)) ([b2594a5](https://github.com/open-feature/python-sdk/commit/b2594a567c31e48a1ae675b855e84300201e8132))
+
+
+### 🔄 Refactoring
+
+* improve Hook Hints typing ([#285](https://github.com/open-feature/python-sdk/issues/285)) ([5acd6a6](https://github.com/open-feature/python-sdk/commit/5acd6a6598fa45326ddafb0184d184cadea826d0))
+
 ## [0.5.0](https://github.com/open-feature/python-sdk/compare/v0.4.2...v0.5.0) (2024-02-20)
 
 
